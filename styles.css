@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  color: #FFFFF0;
+  color: #FFFFFF;
   font-family: "Montserrat", "Poor Story", sans-serif;
 }
 
@@ -63,7 +63,7 @@ header .wrapper .nav-bar ul li {
   list-style: none;
 }
 header .wrapper .nav-bar ul li a {
-  color: #FFFFF0;
+  color: #FFFFFF;
   text-decoration: none;
 }
 header .wrapper .nav-bar ul li a .sign-up {
